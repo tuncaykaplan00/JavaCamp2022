@@ -1,6 +1,6 @@
 package datatypes;
 
-public class datatypes {
+public class Main {
 	
 	// sayi="Ankara" olamaz çünkü int= tam sayı olmalıdır.
 	// boolean true veya false olarak kullanılır.

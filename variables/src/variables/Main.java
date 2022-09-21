@@ -1,6 +1,6 @@
 package variables;
 
-public class variables {
+public class Main {
 	public static void main(String[] args) {
 		int ogrenciSayısı = 12 ;
 		String mesaj = "Öğreci Sayısı : " ;
