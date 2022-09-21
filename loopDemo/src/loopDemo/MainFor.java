@@ -1,6 +1,6 @@
 package loopDemo;
 
-public class Main {
+public class MainFor {
 
 	public static void main(String[] args) {
 		//For
