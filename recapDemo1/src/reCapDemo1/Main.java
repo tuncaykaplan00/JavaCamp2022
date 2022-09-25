@@ -1,4 +1,4 @@
-package recapDemo1;
+package reCapDemo1;
 
 public class Main {
 
